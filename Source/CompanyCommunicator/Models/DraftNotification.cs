@@ -17,7 +17,7 @@ namespace Microsoft.Teams.Apps.CompanyCommunicator.Models
     /// </summary>
     public class DraftNotification : BaseNotification
     {
-        private static readonly int MaxSelectedTeamNum = 20;
+        private static readonly int MaxSelectedTeamNum = 40;
 
         /// <summary>
         /// Initializes a new instance of the <see cref="DraftNotification"/> class.
